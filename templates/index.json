@@ -106,7 +106,7 @@
       "settings": {
         "heading": "Rohit project cheking",
         "heading_size": "h1",
-        "desktop_layout": "left",
+        "desktop_layout": "right",
         "mobile_layout": "column",
         "card_styles": "product-card-wrapper",
         "color_scheme": "",
